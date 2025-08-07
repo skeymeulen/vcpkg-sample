@@ -6,7 +6,7 @@
     "zlib",
     "freetype",
     "ssl",
-    "libpng",
+    "libpng", 
     "libxml2"
   ],
   "overrides": [
