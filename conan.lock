@@ -1,4 +1,5 @@
 {
+    "version": "0.5",
     "requires": [
       "glfw3/3.4",
       "boost-uuid/1.84.0",
