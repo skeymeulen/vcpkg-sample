@@ -1,7 +1,7 @@
 {
   "dependencies": [
     "glfw3",
-    "boost-uuid/",
+    "boost-uuid",
     "boost",
     "zlib",
     "freetype",
