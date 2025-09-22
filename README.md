@@ -1,4 +1,3 @@
 # vcpkg-sample
 
-1.
 
